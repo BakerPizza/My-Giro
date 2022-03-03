@@ -1,0 +1,23 @@
+@font-face{
+	font-family: 'GardensC'; 
+    src: local('GardensC'),
+	url(/fonts/GardensC.otf); 
+}
+*{
+    font-family: 'GardensC';    
+    
+}
+.error{
+    border: 1px solid red;
+}
+
+.msg-reg{
+    color: red;
+}
+
+.container-reg{
+    max-width: 550px;
+}
+.bg-image{
+ background-image: url(img/first-page-bg.png);   
+}
